@@ -15,3 +15,7 @@
 * Day 5 unitypackage : https://mega.nz/file/3LQC0L6a#81CqELxTMrnTBP4_DKxThg3vpaCRPmBqziwY1OMjSj0
 * Day 5 document : https://principled-quesadilla-634.notion.site/Catch-Up-5-f1f1998241684f8a8918646965f4acbf
 ----------------------------------------------------------------------------------------------------------------------
+* Day 6 unitypackage : https://mega.nz/file/yDBVVCLY#ZIuFUL1fWrEMXr161B_8G3yql7fAVB0Q90zwOw8yVNo
+* Day 6 document : https://principled-quesadilla-634.notion.site/Catch-Up-6-fa0fc60f73ad4dffb37f26d2e735a467
+----------------------------------------------------------------------------------------------------------------------
+
